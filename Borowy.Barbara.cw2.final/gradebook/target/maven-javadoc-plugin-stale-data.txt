@@ -1,0 +1,58 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'gradebook 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'gradebook 1.0-SNAPSHOT API'
+pl.polsl.controller
+pl.polsl.gradebook
+pl.polsl.model
+pl.polsl.view
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/src/main/java/pl/polsl/controller/package-info.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/src/main/java/pl/polsl/controller/StudentController.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/src/main/java/pl/polsl/gradebook/Main.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/src/main/java/pl/polsl/gradebook/package-info.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/src/main/java/pl/polsl/model/package-info.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/src/main/java/pl/polsl/model/StudentModel.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/src/main/java/pl/polsl/model/SubjectModel.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/src/main/java/pl/polsl/model/WrongGradeException.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/src/main/java/pl/polsl/view/package-info.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/lab2/gradebook/src/main/java/pl/polsl/view/StudentView.java'
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\src\main\java = 1666553340000
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\allclasses-index.html = 1667743894285
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\allpackages-index.html = 1667743894297
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\element-list = 1667743894036
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\help-doc.html = 1667743894364
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\index-all.html = 1667743894351
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\index.html = 1667743894251
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\jquery-ui.overrides.css = 1667743894399
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\member-search-index.js = 1667743894310
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\module-search-index.js = 1667743894301
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\overview-summary.html = 1667743894356
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\overview-tree.html = 1667743894231
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\package-search-index.js = 1667743894304
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\script.js = 1667743894371
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\search.js = 1667743894375
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\serialized-form.html = 1667743894106
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\stylesheet.css = 1667743894367
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\tag-search-index.js = 1667743894314
+C:\Users\Admin\Documents\polsl\rok 3\java\lab2\gradebook\target\site\apidocs\type-search-index.js = 1667743894307

@@ -1,0 +1,5 @@
+model\SubjectModel.class
+main\Main.class
+view\StudentView.class
+model\StudentModel.class
+controller\StudentController.class

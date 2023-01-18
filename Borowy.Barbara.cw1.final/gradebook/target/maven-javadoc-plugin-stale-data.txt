@@ -1,0 +1,61 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'gradebook 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'gradebook 1.0-SNAPSHOT API'
+pl.polsl.controller
+pl.polsl.gradebook
+pl.polsl.model
+pl.polsl.view
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/src/main/java/pl/polsl/controller/package-info.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/src/main/java/pl/polsl/controller/StudentController.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/src/main/java/pl/polsl/gradebook/Main.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/src/main/java/pl/polsl/gradebook/package-info.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/src/main/java/pl/polsl/model/package-info.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/src/main/java/pl/polsl/model/StudentModel.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/src/main/java/pl/polsl/model/SubjectModel.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/src/main/java/pl/polsl/model/WrongGradeException.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/src/main/java/pl/polsl/view/package-info.java'
+'C:/Users/Admin/Documents/polsl/rok 3/java/source/gradebook/src/main/java/pl/polsl/view/StudentView.java'
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\src\main\java = 1666549741726
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\allclasses-index.html = 1666553888199
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\allpackages-index.html = 1666553888204
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\copy.svg = 1666553888237
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\element-list = 1666553888065
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\help-doc.html = 1666553888231
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\index-all.html = 1666553888223
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\index.html = 1666553888186
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\jquery-ui.overrides.css = 1666553888250
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\member-search-index.js = 1666553888209
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\module-search-index.js = 1666553888205
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\overview-summary.html = 1666553888227
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\overview-tree.html = 1666553888176
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\package-search-index.js = 1666553888207
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\script.js = 1666553888236
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\search-page.js = 1666553888241
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\search.html = 1666553888225
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\search.js = 1666553888239
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\serialized-form.html = 1666553888118
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\stylesheet.css = 1666553888234
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\tag-search-index.js = 1666553888210
+C:\Users\Admin\Documents\polsl\rok 3\java\source\gradebook\target\site\apidocs\type-search-index.js = 1666553888208
